@@ -18,6 +18,8 @@ COPY filebeat/filebeat.yml /etc/filebeat/filebeat.yml
 # Create logs directory
 RUN mkdir -p /app/logs
 
-# Start script: run filebeat in background, then start the app
-CMD filebeat -e -c /etc/filebeat/filebeat.yml & python main.py
+EXPOSE 8000
+
+# Start filebeat in background, then run the app in foreground
+CMD bash -c "filebeat -e -c /etc/filebeat/filebeat.yml &>/dev/null & exec python -u main.py"
 

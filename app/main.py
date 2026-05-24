@@ -27,7 +27,7 @@ from app.analytics.metrics import (
 from app.core.logger import ActionLogger
 from app.data.sample_data import generate_employee_data
 
-HOST = "127.0.0.1"
+HOST = "0.0.0.0"
 PORT = 8000
 ROWS = 2000
 
