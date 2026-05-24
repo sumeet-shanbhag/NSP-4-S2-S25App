@@ -4,12 +4,16 @@ import csv
 import io
 import json
 import random
+import sys
 from http import HTTPStatus
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 from threading import Lock
 from typing import Any
 from urllib.parse import urlparse
+
+# Ensure the project root is on the path so 'app' package is importable
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 from app.actions.handlers import ActionHandler
 from app.analytics.metrics import (
@@ -27,7 +31,7 @@ HOST = "127.0.0.1"
 PORT = 8000
 ROWS = 2000
 
-LOGGER = ActionLogger(log_file=Path("app") / "logs" / "app_events.log")
+LOGGER = ActionLogger(log_file=Path(__file__).resolve().parent / "logs" / "app_events.log")
 HANDLER = ActionHandler(logger=LOGGER, failure_rate=0.2)
 STATE_LOCK = Lock()
 STATE: dict[str, Any] = {
@@ -333,7 +337,7 @@ INDEX_HTML = """<!doctype html>
         ageGroup: document.getElementById("ageGroup").value || "All",
         gender: document.getElementById("gender").value || "All",
         jobRole: document.getElementById("jobRole").value || "All",
-        failureRate: 0.5
+        failureRate: 0.1
       };
     }
 

@@ -638,3 +638,5 @@
 {"timestamp": "2026-05-24T06:32:02.820298+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
 {"timestamp": "2026-05-24T06:32:04.572910+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
 {"timestamp": "2026-05-24T06:32:06.586858+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-24T08:12:58.715546+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.1}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-24T08:13:14.223688+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.1}, "error": "Random failure triggered for action 'load_dashboard'"}
