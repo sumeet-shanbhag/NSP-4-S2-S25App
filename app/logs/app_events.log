@@ -1,0 +1,640 @@
+{"timestamp": "2026-05-23T14:00:03.568534+00:00", "action": "load_dashboard", "status": "error", "category": "DatabaseError", "error": "Network unreachable.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:29:46.568579+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:06:08.568595+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:21:42.568603+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:36:52.568609+00:00", "action": "apply_filters", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:51:01.568617+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:34:28.568622+00:00", "action": "user_login", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:17:21.568627+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Request timed out.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:28:49.568633+00:00", "action": "user_login", "status": "error", "category": "DatabaseError", "error": "Random failure triggered for action.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:16:11.568638+00:00", "action": "refresh_data", "status": "error", "category": "DatabaseError", "error": "Unexpected exception occurred.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:00:55.568643+00:00", "action": "refresh_data", "status": "error", "category": "RandomFailure", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:55:56.568648+00:00", "action": "refresh_data", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:01:39.568653+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:20:01.568657+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:25:46.568662+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Unexpected exception occurred.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:39:23.568667+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:40:13.568672+00:00", "action": "load_dashboard", "status": "error", "category": "NetworkError", "error": "Request timed out.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:33:05.568676+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Random failure triggered for action.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:19:43.568681+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Request timed out.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:18:53.568686+00:00", "action": "user_logout", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:17:22.568692+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:33:25.568697+00:00", "action": "user_logout", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:51:40.568702+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:42:33.568707+00:00", "action": "user_login", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:48:25.568713+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:27:49.568718+00:00", "action": "user_logout", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:02:43.568723+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:42:10.568728+00:00", "action": "prepare_export", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:03:05.568734+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Request timed out.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:48:22.568739+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:33:12.568744+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:25:08.568749+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:06:52.568753+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:38:09.568759+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:38:48.568766+00:00", "action": "user_logout", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:52:06.568771+00:00", "action": "prepare_export", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:59:36.568778+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Network unreachable.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:35:11.568784+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:49:42.568790+00:00", "action": "user_login", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:28:18.568795+00:00", "action": "prepare_export", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:58:51.568800+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Request timed out.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:37:25.568805+00:00", "action": "user_logout", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:10:09.568810+00:00", "action": "user_login", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:03:51.568824+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:28:13.568829+00:00", "action": "apply_filters", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:48:30.568834+00:00", "action": "user_logout", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:31:11.568839+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:19:35.568844+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Random failure triggered for action.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:04:19.568849+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:46:48.568854+00:00", "action": "prepare_export", "status": "error", "category": "UnknownError", "error": "Network unreachable.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:34:26.568859+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:03:12.568864+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Unexpected exception occurred.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:34:04.568869+00:00", "action": "user_logout", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:17:39.568874+00:00", "action": "user_logout", "status": "error", "category": "TimeoutError", "error": "Request timed out.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:31:54.568880+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:41:08.568884+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:41:55.568889+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:35:57.568894+00:00", "action": "prepare_export", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:40:16.568899+00:00", "action": "prepare_export", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:04:19.568904+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:26:37.568909+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:08:42.568913+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:21:26.568918+00:00", "action": "user_logout", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:06:09.568923+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:37:38.568927+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:23:55.568932+00:00", "action": "user_login", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:47:33.568937+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Random failure triggered for action.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:18:32.568942+00:00", "action": "user_login", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:46:17.568946+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:08:55.568951+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:27:46.568957+00:00", "action": "prepare_export", "status": "error", "category": "RandomFailure", "error": "Network unreachable.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:00:36.568963+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:44:28.568968+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:21:42.568973+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:02:24.568978+00:00", "action": "user_logout", "status": "error", "category": "UnknownError", "error": "Random failure triggered for action.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:56:07.568983+00:00", "action": "refresh_data", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:22:55.568988+00:00", "action": "prepare_export", "status": "error", "category": "ValidationError", "error": "Random failure triggered for action.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:41:33.568992+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:12:19.568997+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:32:12.569001+00:00", "action": "apply_filters", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:16:44.569006+00:00", "action": "user_logout", "status": "error", "category": "TimeoutError", "error": "Request timed out.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:38:53.569010+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Random failure triggered for action.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:13:54.569016+00:00", "action": "load_dashboard", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:42:48.569020+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Network unreachable.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:35:31.569025+00:00", "action": "apply_filters", "status": "error", "category": "TimeoutError", "error": "Input validation failed.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:24:17.569029+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:44:05.569039+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Random failure triggered for action.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:36:21.569044+00:00", "action": "prepare_export", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:04:00.569049+00:00", "action": "apply_filters", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:13:44.569054+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:46:43.569059+00:00", "action": "load_dashboard", "status": "error", "category": "DatabaseError", "error": "Network unreachable.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:43:19.569064+00:00", "action": "apply_filters", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:16:35.569068+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:46:56.569073+00:00", "action": "load_dashboard", "status": "error", "category": "DatabaseError", "error": "Unexpected exception occurred.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:49:58.569078+00:00", "action": "user_login", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:53:40.569083+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:41:32.569088+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:41:57.569092+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:03:01.569096+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:58:16.569101+00:00", "action": "load_dashboard", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:49:16.569106+00:00", "action": "prepare_export", "status": "error", "category": "RandomFailure", "error": "Network unreachable.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:55:47.569111+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:37:34.569115+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:57:49.569120+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:22:07.569125+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Network unreachable.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:02:06.569129+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Request timed out.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:03:14.569134+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:57:59.569139+00:00", "action": "user_login", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:58:00.569143+00:00", "action": "prepare_export", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:32:24.569148+00:00", "action": "user_logout", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:06:58.569153+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:44:13.569158+00:00", "action": "prepare_export", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:23:43.569163+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Random failure triggered for action.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:02:13.569167+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:06:21.569172+00:00", "action": "load_dashboard", "status": "error", "category": "RandomFailure", "error": "Random failure triggered for action.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:47:47.569177+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Random failure triggered for action.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:14:37.569182+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:36:03.569187+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:55:05.569192+00:00", "action": "load_dashboard", "status": "error", "category": "RandomFailure", "error": "Request timed out.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:22:06.569197+00:00", "action": "apply_filters", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:27:22.569202+00:00", "action": "prepare_export", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:53:23.569207+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Random failure triggered for action.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:57:49.569213+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:27:34.569218+00:00", "action": "refresh_data", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:09:32.569223+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:45:28.569228+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Request timed out.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:52:39.569233+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Request timed out.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:49:43.569238+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Random failure triggered for action.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:58:48.569247+00:00", "action": "user_login", "status": "error", "category": "TimeoutError", "error": "Request timed out.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:43:41.569252+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Random failure triggered for action.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:34:29.569257+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Request timed out.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:11:05.569262+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:44:08.569267+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Random failure triggered for action.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:49:22.569273+00:00", "action": "apply_filters", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:37:53.569277+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:39:04.569282+00:00", "action": "prepare_export", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:41:06.569288+00:00", "action": "prepare_export", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:25:56.569293+00:00", "action": "refresh_data", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:48:47.569298+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:59:25.569313+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:17:55.569319+00:00", "action": "user_login", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:06:07.569324+00:00", "action": "user_login", "status": "error", "category": "ValidationError", "error": "Random failure triggered for action.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:05:08.569329+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:23:41.569334+00:00", "action": "prepare_export", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:51:47.569395+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:36:06.569406+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Database connection lost.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:59:35.569413+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:42:37.569419+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:00:22.569424+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:40:20.569428+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Input validation failed.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:18:10.569434+00:00", "action": "refresh_data", "status": "error", "category": "UnknownError", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:37:09.569439+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:42:28.569444+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:43:05.569448+00:00", "action": "user_logout", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:31:20.569453+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:14:18.569458+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:48:46.569463+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:17:05.569468+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:57:41.569474+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:33:48.569479+00:00", "action": "refresh_data", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:21:58.569484+00:00", "action": "user_logout", "status": "error", "category": "TimeoutError", "error": "Database connection lost.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:50:55.569488+00:00", "action": "refresh_data", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:02:35.569493+00:00", "action": "user_login", "status": "error", "category": "TimeoutError", "error": "Database connection lost.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:16:27.569498+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Network unreachable.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:55:32.569502+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:36:56.569507+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:26:02.569511+00:00", "action": "load_dashboard", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:53:57.569517+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:57:08.569522+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:23:54.569527+00:00", "action": "prepare_export", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:14:34.569543+00:00", "action": "refresh_data", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:59:03.569548+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:39:43.569553+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:59:19.569558+00:00", "action": "load_dashboard", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:05:21.569564+00:00", "action": "prepare_export", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:45:13.569569+00:00", "action": "user_login", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:38:51.569574+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:02:20.569579+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:01:11.569584+00:00", "action": "refresh_data", "status": "error", "category": "RandomFailure", "error": "Random failure triggered for action.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:40:00.569589+00:00", "action": "prepare_export", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:16:24.569594+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:12:12.569599+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Request timed out.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:42:52.569604+00:00", "action": "refresh_data", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:18:22.569608+00:00", "action": "load_dashboard", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:07:42.569613+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:38:56.569617+00:00", "action": "user_logout", "status": "error", "category": "UnknownError", "error": "Random failure triggered for action.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:03:37.569622+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:07:50.569627+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Request timed out.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:44:16.569631+00:00", "action": "user_logout", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:38:39.569636+00:00", "action": "refresh_data", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:04:54.569641+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:10:49.569645+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:55:13.569650+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:49:47.569655+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:58:09.569660+00:00", "action": "prepare_export", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:08:20.569665+00:00", "action": "user_logout", "status": "error", "category": "TimeoutError", "error": "Input validation failed.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:17:31.569670+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Input validation failed.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:50:04.569675+00:00", "action": "load_dashboard", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:30:31.569680+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:58:53.569684+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Request timed out.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:36:54.569689+00:00", "action": "user_login", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:33:58.569694+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Request timed out.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:16:39.569698+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Unexpected exception occurred.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:42:42.569704+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:32:32.569708+00:00", "action": "prepare_export", "status": "error", "category": "UnknownError", "error": "Network unreachable.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:12:14.569713+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:58:27.569718+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Request timed out.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:00:56.569723+00:00", "action": "user_logout", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:25:31.569728+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:52:42.569732+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:59:28.569740+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:20:23.569744+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:19:31.569749+00:00", "action": "prepare_export", "status": "error", "category": "ValidationError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:52:04.569758+00:00", "action": "load_dashboard", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:30:22.569763+00:00", "action": "load_dashboard", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:14:57.569768+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Random failure triggered for action.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:43:05.569773+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:17:54.569778+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:33:23.569783+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:15:29.569788+00:00", "action": "load_dashboard", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:16:49.569793+00:00", "action": "load_dashboard", "status": "error", "category": "DatabaseError", "error": "Network unreachable.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:32:14.569797+00:00", "action": "load_dashboard", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:39:49.569802+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:49:53.569807+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:36:19.569812+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:37:20.569817+00:00", "action": "refresh_data", "status": "error", "category": "DatabaseError", "error": "Network unreachable.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:44:57.569822+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Request timed out.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:43:22.569826+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:16:44.569831+00:00", "action": "prepare_export", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:29:34.569836+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:24:13.569841+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Network unreachable.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:31:34.569845+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Database connection lost.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:01:55.569850+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:35:11.569855+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:39:22.569860+00:00", "action": "prepare_export", "status": "error", "category": "RandomFailure", "error": "Network unreachable.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:42:19.569865+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Request timed out.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:43:48.569869+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:45:59.569874+00:00", "action": "user_login", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:18:14.569878+00:00", "action": "apply_filters", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:54:50.569883+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:00:29.569888+00:00", "action": "prepare_export", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:20:11.569893+00:00", "action": "user_logout", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:14:20.569897+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:19:17.569901+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Database connection lost.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:57:56.569906+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:54:16.569910+00:00", "action": "prepare_export", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:40:03.569914+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Request timed out.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:28:29.569920+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:41:26.569926+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:47:58.569931+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:56:16.569936+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Random failure triggered for action.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:28:55.569940+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:24:32.569945+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:40:57.569949+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:44:24.569954+00:00", "action": "user_login", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:25:02.569959+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:56:49.569975+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:47:43.569980+00:00", "action": "user_logout", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:29:38.569985+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:58:02.569990+00:00", "action": "load_dashboard", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:11:12.569995+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:58:19.570000+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:41:22.570005+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Input validation failed.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:27:16.570010+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:43:09.570014+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:12:29.570019+00:00", "action": "prepare_export", "status": "error", "category": "ValidationError", "error": "Request timed out.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:47:45.570023+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Network unreachable.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:50:37.570028+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:07:19.570033+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:09:31.570037+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Request timed out.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:13:03.570042+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:38:53.570046+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Network unreachable.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:40:52.570051+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:16:00.570056+00:00", "action": "user_logout", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:04:17.570061+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:16:24.570066+00:00", "action": "apply_filters", "status": "error", "category": "TimeoutError", "error": "Request timed out.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:55:38.570070+00:00", "action": "refresh_data", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:18:31.570075+00:00", "action": "user_logout", "status": "error", "category": "DatabaseError", "error": "Random failure triggered for action.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:26:21.570080+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:41:00.570084+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:10:57.570089+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Database connection lost.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:32:26.570094+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:13:45.570098+00:00", "action": "apply_filters", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:26:20.570103+00:00", "action": "user_login", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:16:02.570107+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Random failure triggered for action.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:20:11.570112+00:00", "action": "user_logout", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:34:24.570116+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:35:55.570121+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Network unreachable.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:06:40.570125+00:00", "action": "refresh_data", "status": "error", "category": "UnknownError", "error": "Network unreachable.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:57:13.570130+00:00", "action": "user_logout", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:40:57.570135+00:00", "action": "apply_filters", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:22:51.570139+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Input validation failed.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:59:16.570144+00:00", "action": "refresh_data", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:59:35.570149+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:54:40.570153+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Random failure triggered for action.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:53:58.570158+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:48:03.570162+00:00", "action": "user_logout", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:10:58.570167+00:00", "action": "user_logout", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:52:06.570172+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:53:17.570178+00:00", "action": "refresh_data", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:14:16.570183+00:00", "action": "apply_filters", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:14:04.570188+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:35:43.570193+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:26:37.570198+00:00", "action": "apply_filters", "status": "error", "category": "NetworkError", "error": "Random failure triggered for action.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:27:35.570202+00:00", "action": "load_dashboard", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:55:55.570207+00:00", "action": "user_logout", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:09:18.570211+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Random failure triggered for action.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:24:55.570216+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Network unreachable.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:29:58.570221+00:00", "action": "user_logout", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:05:30.570226+00:00", "action": "refresh_data", "status": "error", "category": "UnknownError", "error": "Random failure triggered for action.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:03:20.570230+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:09:44.570235+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:05:47.570239+00:00", "action": "user_logout", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:57:37.570244+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:53:38.570249+00:00", "action": "prepare_export", "status": "error", "category": "ValidationError", "error": "Random failure triggered for action.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:31:49.570253+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:18:13.570258+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Random failure triggered for action.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:50:58.570263+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:24:47.570268+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:18:10.570272+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:38:09.570277+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:58:38.570282+00:00", "action": "load_dashboard", "status": "error", "category": "DatabaseError", "error": "Random failure triggered for action.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:12:17.570287+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:23:19.570291+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:27:59.570296+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:21:12.570301+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Input validation failed.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:17:45.570305+00:00", "action": "refresh_data", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:38:40.570310+00:00", "action": "user_login", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:31:31.570315+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:37:54.570319+00:00", "action": "refresh_data", "status": "error", "category": "DatabaseError", "error": "Random failure triggered for action.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:17:21.570324+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:21:47.570329+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:55:26.570333+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:49:14.570338+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:41:20.570343+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:12:01.570347+00:00", "action": "prepare_export", "status": "error", "category": "RandomFailure", "error": "Request timed out.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:25:37.570352+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:25:56.570356+00:00", "action": "prepare_export", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:09:37.570361+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:57:45.570365+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:00:30.570370+00:00", "action": "prepare_export", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:02:16.570374+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Request timed out.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:28:11.570381+00:00", "action": "refresh_data", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:17:00.570385+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:52:23.570390+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:35:57.570395+00:00", "action": "user_logout", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:06:08.570400+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Network unreachable.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:42:32.570404+00:00", "action": "user_login", "status": "error", "category": "DatabaseError", "error": "Random failure triggered for action.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:31:28.570409+00:00", "action": "user_login", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:24:00.570414+00:00", "action": "load_dashboard", "status": "error", "category": "RandomFailure", "error": "Network unreachable.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:42:40.570419+00:00", "action": "user_logout", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:59:56.570424+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:02:45.570429+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Input validation failed.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:43:33.570433+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:21:22.570438+00:00", "action": "user_login", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:44:11.570443+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:25:06.570447+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Database connection lost.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:39:12.570452+00:00", "action": "refresh_data", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:50:16.570456+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Random failure triggered for action.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:10:05.570461+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:23:06.570465+00:00", "action": "apply_filters", "status": "error", "category": "NetworkError", "error": "Request timed out.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:39:38.570470+00:00", "action": "user_login", "status": "error", "category": "DatabaseError", "error": "Random failure triggered for action.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:42:40.570475+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:40:00.570480+00:00", "action": "user_logout", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:09:32.570485+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:15:16.570490+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Random failure triggered for action.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:25:51.570495+00:00", "action": "load_dashboard", "status": "error", "category": "NetworkError", "error": "Random failure triggered for action.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:19:11.570499+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:12:01.570504+00:00", "action": "prepare_export", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:00:33.570509+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:09:59.570513+00:00", "action": "user_login", "status": "error", "category": "DatabaseError", "error": "Network unreachable.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:06:30.570518+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:00:57.570523+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:30:24.570527+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:32:05.570532+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:11:13.570536+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:37:01.570541+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:21:07.570546+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:00:45.570551+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:57:11.570555+00:00", "action": "user_login", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:17:15.570560+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T14:01:39.570564+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:09:54.570569+00:00", "action": "user_login", "status": "error", "category": "DatabaseError", "error": "Unexpected exception occurred.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:27:19.570574+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:26:54.570579+00:00", "action": "prepare_export", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:55:24.570586+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Request timed out.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:02:28.570590+00:00", "action": "prepare_export", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:58:56.570595+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:05:54.570600+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Random failure triggered for action.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:08:18.570604+00:00", "action": "user_logout", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:42:51.570609+00:00", "action": "load_dashboard", "status": "error", "category": "NetworkError", "error": "Request timed out.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:29:46.570614+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:29:41.570619+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:20:07.570623+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Random failure triggered for action.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:44:11.570628+00:00", "action": "apply_filters", "status": "error", "category": "TimeoutError", "error": "Input validation failed.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:58:27.570633+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:07:50.570637+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:01:21.570642+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:18:57.570647+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Network unreachable.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:50:21.570651+00:00", "action": "refresh_data", "status": "error", "category": "UnknownError", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:31:18.570656+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:29:42.570660+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:57:34.570664+00:00", "action": "user_logout", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:26:42.570669+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:13:05.570673+00:00", "action": "load_dashboard", "status": "error", "category": "DatabaseError", "error": "Unexpected exception occurred.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:45:28.570678+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Random failure triggered for action.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:55:47.570683+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:48:20.570688+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:52:10.570692+00:00", "action": "user_login", "status": "error", "category": "DatabaseError", "error": "Unexpected exception occurred.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:13:10.570697+00:00", "action": "user_logout", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:34:25.570702+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Random failure triggered for action.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:33:24.570706+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Network unreachable.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:45:02.570711+00:00", "action": "user_login", "status": "error", "category": "ValidationError", "error": "Random failure triggered for action.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:54:43.570715+00:00", "action": "prepare_export", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:11:38.570720+00:00", "action": "user_login", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:40:09.570725+00:00", "action": "prepare_export", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:31:04.570729+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Request timed out.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:45:39.570734+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Random failure triggered for action.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:45:54.570739+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Network unreachable.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:46:15.570743+00:00", "action": "refresh_data", "status": "error", "category": "RandomFailure", "error": "Request timed out.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:21:52.570748+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Request timed out.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:37:07.570752+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:29:53.570757+00:00", "action": "user_logout", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T13:33:55.570761+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:43:47.570766+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:31:28.570770+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Unexpected exception occurred.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:09:11.570775+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Unexpected exception occurred.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:56:45.570780+00:00", "action": "refresh_data", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:28:25.570787+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:09:53.570792+00:00", "action": "apply_filters", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:08:10.570796+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:34:48.570801+00:00", "action": "refresh_data", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:46:30.570806+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Random failure triggered for action.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:00:48.570810+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Input validation failed.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:37:49.570815+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Network unreachable.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:58:08.570820+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:42:55.570824+00:00", "action": "prepare_export", "status": "error", "category": "NetworkError", "error": "Request timed out.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:01:30.570829+00:00", "action": "prepare_export", "status": "error", "category": "DatabaseError", "error": "Unexpected exception occurred.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:01:23.570834+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:27:26.570839+00:00", "action": "prepare_export", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T14:02:50.570843+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Random failure triggered for action.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:09:05.570848+00:00", "action": "user_logout", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:35:04.570852+00:00", "action": "refresh_data", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:37:44.570857+00:00", "action": "refresh_data", "status": "error", "category": "RandomFailure", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:26:29.570861+00:00", "action": "refresh_data", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:06:58.570866+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:42:05.570871+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Network unreachable.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:26:57.570875+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Unexpected exception occurred.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:04:23.570880+00:00", "action": "prepare_export", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:17:46.570884+00:00", "action": "apply_filters", "status": "error", "category": "RandomFailure", "error": "Database connection lost.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:03:26.570889+00:00", "action": "user_logout", "status": "error", "category": "RandomFailure", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:26:35.570894+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:50:07.570899+00:00", "action": "user_login", "status": "error", "category": "DatabaseError", "error": "Unexpected exception occurred.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:19:10.570903+00:00", "action": "user_logout", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:59:32.570908+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Database connection lost.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:25:07.570913+00:00", "action": "load_dashboard", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:49:13.570917+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Request timed out.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:56:45.570922+00:00", "action": "user_login", "status": "error", "category": "TimeoutError", "error": "Input validation failed.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:09:11.570927+00:00", "action": "load_dashboard", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:07:38.570932+00:00", "action": "prepare_export", "status": "error", "category": "TimeoutError", "error": "Input validation failed.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T14:18:39.570937+00:00", "action": "prepare_export", "status": "error", "category": "NetworkError", "error": "Input validation failed.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:40:53.570941+00:00", "action": "refresh_data", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:38:38.570946+00:00", "action": "user_login", "status": "error", "category": "RandomFailure", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:36:23.570950+00:00", "action": "apply_filters", "status": "error", "category": "ValidationError", "error": "Network unreachable.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:00:41.570955+00:00", "action": "load_dashboard", "status": "error", "category": "DatabaseError", "error": "Unexpected exception occurred.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:30:01.570960+00:00", "action": "apply_filters", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:11:10.570965+00:00", "action": "user_logout", "status": "error", "category": "DatabaseError", "error": "Random failure triggered for action.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:54:29.570970+00:00", "action": "prepare_export", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:14:58.570974+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Random failure triggered for action.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:23:05.570979+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:43:22.570984+00:00", "action": "user_login", "status": "error", "category": "DatabaseError", "error": "Database connection lost.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:21:00.570991+00:00", "action": "user_logout", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:28:03.570996+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Random failure triggered for action.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:09:25.571000+00:00", "action": "load_dashboard", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:28:53.571005+00:00", "action": "load_dashboard", "status": "error", "category": "TimeoutError", "error": "Network unreachable.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:53:47.571009+00:00", "action": "user_login", "status": "error", "category": "TimeoutError", "error": "Unexpected exception occurred.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T13:37:26.571014+00:00", "action": "prepare_export", "status": "error", "category": "ValidationError", "error": "Unexpected exception occurred.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:17:52.571018+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Network unreachable.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:15:36.571023+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Network unreachable.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:28:52.571027+00:00", "action": "user_logout", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:34:36.571032+00:00", "action": "user_logout", "status": "error", "category": "TimeoutError", "error": "Input validation failed.", "context": {"user": "user10"}}
+{"timestamp": "2026-05-23T13:40:46.571037+00:00", "action": "apply_filters", "status": "error", "category": "NetworkError", "error": "Database connection lost.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:07:48.571042+00:00", "action": "refresh_data", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:33:18.571046+00:00", "action": "prepare_export", "status": "error", "category": "NetworkError", "error": "Request timed out.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T14:01:55.571062+00:00", "action": "apply_filters", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:13:15.571068+00:00", "action": "refresh_data", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user7"}}
+{"timestamp": "2026-05-23T14:03:08.571072+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T13:53:25.571077+00:00", "action": "user_logout", "status": "error", "category": "ValidationError", "error": "Random failure triggered for action.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:28:34.571082+00:00", "action": "user_login", "status": "error", "category": "NetworkError", "error": "Network unreachable.", "context": {"user": "user2"}}
+{"timestamp": "2026-05-23T14:15:25.571086+00:00", "action": "prepare_export", "status": "error", "category": "UnknownError", "error": "Unexpected exception occurred.", "context": {"user": "user1"}}
+{"timestamp": "2026-05-23T13:48:20.571091+00:00", "action": "load_dashboard", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T13:28:22.571096+00:00", "action": "prepare_export", "status": "error", "category": "ValidationError", "error": "Input validation failed.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T13:54:45.571100+00:00", "action": "apply_filters", "status": "error", "category": "NetworkError", "error": "Unexpected exception occurred.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T14:17:19.571105+00:00", "action": "refresh_data", "status": "error", "category": "DatabaseError", "error": "Input validation failed.", "context": {"user": "user8"}}
+{"timestamp": "2026-05-23T13:46:58.571110+00:00", "action": "user_login", "status": "error", "category": "UnknownError", "error": "Database connection lost.", "context": {"user": "user3"}}
+{"timestamp": "2026-05-23T13:49:08.571114+00:00", "action": "user_login", "status": "error", "category": "DatabaseError", "error": "Network unreachable.", "context": {"user": "user5"}}
+{"timestamp": "2026-05-23T13:31:32.571119+00:00", "action": "prepare_export", "status": "error", "category": "NetworkError", "error": "Request timed out.", "context": {"user": "user9"}}
+{"timestamp": "2026-05-23T14:00:24.571123+00:00", "action": "prepare_export", "status": "error", "category": "UnknownError", "error": "Network unreachable.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:03:58.571128+00:00", "action": "load_dashboard", "status": "error", "category": "UnknownError", "error": "Input validation failed.", "context": {"user": "user4"}}
+{"timestamp": "2026-05-23T14:10:36.571132+00:00", "action": "refresh_data", "status": "error", "category": "RandomFailure", "error": "Random failure triggered for action.", "context": {"user": "user6"}}
+{"timestamp": "2026-05-23T14:28:36.040967+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T14:28:47.883620+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}}
+{"timestamp": "2026-05-23T14:29:15.230258+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["R&D"], "failureRate": 0.45}}
+{"timestamp": "2026-05-23T14:29:18.004745+00:00", "action": "refresh_data", "status": "error", "context": {"education": "All", "departments": ["R&D"], "failureRate": 0.45}, "error": "Random failure triggered for action 'refresh_data'"}
+{"timestamp": "2026-05-23T14:29:23.793760+00:00", "action": "export_csv", "status": "success", "context": {"education": "All", "departments": ["R&D"], "failureRate": 0.45}}
+{"timestamp": "2026-05-23T14:30:53.030791+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["R&D"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:02:56.952830+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}}
+{"timestamp": "2026-05-23T15:03:11.119968+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:03:13.499708+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}}
+{"timestamp": "2026-05-23T15:04:40.297700+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:04:42.958368+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}}
+{"timestamp": "2026-05-23T15:06:32.438253+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:06:35.143588+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}}
+{"timestamp": "2026-05-23T15:07:54.331306+00:00", "action": "refresh_data", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}, "error": "Random failure triggered for action 'refresh_data'"}
+{"timestamp": "2026-05-23T15:07:55.374409+00:00", "action": "refresh_data", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}, "error": "Random failure triggered for action 'refresh_data'"}
+{"timestamp": "2026-05-23T15:07:56.029616+00:00", "action": "refresh_data", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}}
+{"timestamp": "2026-05-23T15:07:56.840128+00:00", "action": "refresh_data", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}}
+{"timestamp": "2026-05-23T15:07:57.357822+00:00", "action": "refresh_data", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}}
+{"timestamp": "2026-05-23T15:07:57.810756+00:00", "action": "refresh_data", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}}
+{"timestamp": "2026-05-23T15:07:58.397921+00:00", "action": "refresh_data", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}}
+{"timestamp": "2026-05-23T15:08:00.203800+00:00", "action": "refresh_data", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}}
+{"timestamp": "2026-05-23T15:08:01.570798+00:00", "action": "refresh_data", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}}
+{"timestamp": "2026-05-23T15:08:02.100375+00:00", "action": "refresh_data", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}}
+{"timestamp": "2026-05-23T15:08:02.547904+00:00", "action": "refresh_data", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.2}, "error": "Random failure triggered for action 'refresh_data'"}
+{"timestamp": "2026-05-23T15:11:19.826292+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:11:22.925479+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:19:09.742097+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:34:05.455164+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:34:06.957971+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:34:15.220576+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["R&D"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:34:18.400831+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "Life Sciences", "departments": ["R&D"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:35:46.772711+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:35:50.129016+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:36:57.281158+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:36:59.595142+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:37:01.219296+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:37:03.011181+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:37:03.561005+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:37:05.049694+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:37:23.643385+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:37:25.795284+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:37:29.088920+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:37:31.031353+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:38:15.917351+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:38:17.777353+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:38:18.498980+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:38:19.002645+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:38:19.481437+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:38:21.238411+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:38:21.921296+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:38:22.225751+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:38:22.912908+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:38:23.343768+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:38:24.334505+00:00", "action": "refresh_data", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:38:24.948531+00:00", "action": "refresh_data", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'refresh_data'"}
+{"timestamp": "2026-05-23T15:39:32.988606+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:39:34.390051+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:39:35.084631+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:39:35.563469+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:39:36.000512+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:39:36.332975+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:39:38.140384+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:39:44.586882+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:39:51.267018+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:40:22.874882+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:40:27.490910+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:40:28.901482+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:40:29.683826+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:40:30.115844+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:40:30.448474+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:40:30.656167+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:40:30.862946+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:40:31.104886+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:40:31.340520+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:40:33.534723+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:40:34.982914+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:40:54.311693+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:40:56.262835+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:40:56.966229+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:41:10.150749+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:41:12.218128+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:41:13.036427+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:41:13.883972+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:41:14.346540+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:41:19.586198+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:41:22.484738+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:43:10.578756+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:43:13.347162+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:43:15.661946+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:43:16.297391+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:43:16.740392+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:43:23.737005+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:43:27.047761+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:43:29.689308+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:43:31.144446+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:44:45.513732+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:44:48.051240+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:45:03.801706+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Human Resources", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:05.973131+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Human Resources", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:06.682518+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "Human Resources", "departments": ["Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:45:07.855143+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Human Resources", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:09.214094+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Life Sciences", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:10.481601+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Marketing", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:12.964483+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:14.101935+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Life Sciences", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:15.317848+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Medical", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:17.562958+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Other", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:20.353701+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Marketing", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:22.251435+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Marketing", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:23.941644+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "Marketing", "departments": ["R&D"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:45:25.499362+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Marketing", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:27.930352+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Marketing", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:29.241389+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Marketing", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:30.661955+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "Marketing", "departments": ["R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:31.695733+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "Marketing", "departments": ["R&D"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:45:35.922979+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "Marketing", "departments": ["R&D"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:45:38.070040+00:00", "action": "refresh_data", "status": "success", "context": {"education": "Marketing", "departments": ["R&D"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:45:39.895260+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["R&D"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:45:42.295248+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:43.274589+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:45:44.254384+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:45:45.542448+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:45:47.032090+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:45:48.936199+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:45:49.884678+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:45:50.694208+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:47:54.287921+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 300}}
+{"timestamp": "2026-05-23T15:47:56.530221+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:47:58.545618+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:47:59.033300+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T15:48:59.376366+00:00", "action": "initialize_data", "status": "success", "context": {"rows": 2000}}
+{"timestamp": "2026-05-23T15:49:02.379577+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T15:49:03.579679+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T16:32:12.450122+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
+{"timestamp": "2026-05-23T16:32:22.201754+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-23T16:45:08.577759+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-24T05:05:19.527984+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-24T06:32:02.820298+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-24T06:32:04.572910+00:00", "action": "load_dashboard", "status": "success", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}}
+{"timestamp": "2026-05-24T06:32:06.586858+00:00", "action": "load_dashboard", "status": "error", "context": {"education": "All", "departments": ["HR", "R&D", "Sales"], "failureRate": 0.5}, "error": "Random failure triggered for action 'load_dashboard'"}
